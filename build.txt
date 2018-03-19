@@ -1,0 +1,7 @@
+author = Iluminacho
+version = 0.1.1.1
+displayName = Class Expansion
+homepage = https://github.com/Iluminacho/Class-Expansion
+hideCode = true
+hideResources = false
+includeSource = false

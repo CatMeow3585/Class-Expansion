@@ -1,0 +1,27 @@
+Class equality aims to have the same amout of items for every class, every type of weapon, bosses and expand the throwing and summoner class, such as making a copper flail, or a new whole set. This mod doesnt add any RPG mechanics such as leveling up.
+If interested on spriting, coding, testing or translating this mod contact me trough discord: #0212
+
+To-Do List
+-Complete prehardmode gear.
+-Add Marble & Granite themed set.
+-Pirate Set
+-Comet Pillar for throwing characters
+-Complete hardmode gear
+-Add Forbidden/Frozen class equivalents
+-Create magic healing items
+-Royal set
+-& more...
+
+Version History
+
+
+v0.1.1.1
+-Added Spark, clone of the Sparking Wand
+-Full set of Wooden Armor now provides extra damage
+
+v0.1.1
+-First version ever!
+-Added ninja set which can be obtained by killing the King Slime
+Known Issues
+-Ninja spear bugs out visually
+
