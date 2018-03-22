@@ -4,18 +4,18 @@ using Terraria.ID;
 
 namespace UV.Items.Sets.Wood
 {
-	public class WoodenCharmMelee : ModItem
+	public class WoodenCharmRanged : ModItem
 	{
 		public override void SetStaticDefaults()
 		{
-			Tooltip.SetDefault("Charm that enhances Melee combat" + "\n2 Defense" + "\n1% increased melee damage" + "\n1% increased melee critical hit chance" + "\n1% increased melee speed" + "\nIncreased Melee Knockback");
-			DisplayName.SetDefault("Wooden Sword Charm");
+			Tooltip.SetDefault("Charm that enhances Ranged combat" + "\n1% increased ranged damage" + "\n1% increased ranged critical strike chance" + "\n1% increased movement speed");
+			DisplayName.SetDefault("Wooden Bow Charm");
 		}
 
 		public override void SetDefaults()
 		{
-			item.width = 24;
-			item.height = 24;
+			item.width = 14;
+			item.height = 26;
 			item.value = 10000;
 			item.rare = 0;
 			item.accessory = true;
@@ -23,10 +23,9 @@ namespace UV.Items.Sets.Wood
 
 		public override void UpdateAccessory(Player player, bool hideVisual)
 		{
-				player.statDefense += 2;
-				player.meleeDamage += 0.01f;
-				player.meleeSpeed += 0.01f;
-				player.meleeCrit += 1;
+				player.rangedDamage += 0.01f;
+				player.rangedCrit += 1;
+				player.moveSpeed += 0.01f;
 		}
 
 		public override void AddRecipes()

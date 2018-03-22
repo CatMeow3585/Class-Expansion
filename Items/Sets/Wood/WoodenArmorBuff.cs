@@ -19,8 +19,8 @@ namespace Uv.Items.Sets.Wood
 		{
 			if (set == "WoodBuff")
 			{
-			player.meleeDamage += 0.1f;
-			player.setBonus = "+1 defense" + "\n+x% of extra damage";
+			player.meleeDamage += 0.01f;
+			player.setBonus = "1 defense" + "\n1% increased damage";
 			}
 		}
 	}

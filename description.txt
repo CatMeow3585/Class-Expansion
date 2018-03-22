@@ -1,5 +1,6 @@
 Class equality aims to have the same amout of items for every class, every type of weapon, bosses and expand the throwing and summoner class, such as making a copper flail, or a new whole set. This mod doesnt add any RPG mechanics such as leveling up.
 If interested on spriting, coding, testing or translating this mod contact me trough discord: #0212
+From Sunday,26/March/2018 i will try to have a weekly update.
 
 To-Do List
 -Complete prehardmode gear.
@@ -13,7 +14,11 @@ To-Do List
 -& more...
 
 Version History
-
+v0.1.1.2
+-Added wood tier charms, charms are generic class-based accesories that enhances combat of said class
+-Added wood tier blowpipe and throwing alternative to the wooden boomerang (that is also craftable!)
+-Fixed wooden armor extra damage % tooltip
+-Added a recipe for the wand of sparking
 
 v0.1.1.1
 -Added Spark, clone of the Sparking Wand
